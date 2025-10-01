@@ -44,8 +44,6 @@ Any extension to biometric/tracking data requires explicit consent and IRB/ethic
 
 Personnel recommendations require human/legal review
 
-Contact: After pushing updates, email repository link to jrstrome@syr.edu.
-
 AI Prompt (Audit Log for LLM)
 
 Exact prompt used to generate this report:
