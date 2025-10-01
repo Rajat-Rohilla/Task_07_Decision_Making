@@ -1,0 +1,35 @@
+Metric,Value
+Team total points,156
+Opp total points,148
+Team PPG,31.2
+Opp PPG,29.6
+Mean scoring differential (team - opp),1.6
+SD of team points,22.687
+SD of opp points,11.238
+Paired t-statistic (manual),0.12
+Bootstrap 95% CI lower,-22.2
+Bootstrap 95% CI upper,24.0
+Mean diff w/o Colgate,-8.5
+Team PPG w/o Colgate,22.5
+Opp PPG w/o Colgate,31.0
+Team rush yards,560
+Opp rush yards,870
+Team rush YPA,3.3
+Opp rush YPA,5.4
+Team pass yards,1645
+Opp pass yards,1453
+Team pass YPA,7.95
+Opp pass YPA,6.76
+Team turnovers,9
+Opp turnovers,6
+Team 3rd-down %,36.76
+Opp 3rd-down %,39.73
+Team 4th conv (made/att),7/12
+Opp 4th conv (made/att),4/12
+Team sacks,7
+Opp sacks,14
+Team penalty yards,230
+Opp penalty yards,319
+Team punt avg,47.96
+Team punt net,45.78
+Opp punt avg,40.29
