@@ -16,10 +16,6 @@ README.md — this file
 #How to reproduce:
 Clone repository: git clone <repo-url>
 
-Install Python 3.10+ with numpy, scipy, pandas
-
-Run python src/reproducible_analysis.py
-
 Outputs will replicate bootstrap estimates, sensitivity analysis, and summary stats
 
 
